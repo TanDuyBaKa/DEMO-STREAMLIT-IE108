@@ -1,1 +1,1 @@
-
+Đặt file best.pt vào thư mục này.
