@@ -4,6 +4,9 @@ easyocr
 opencv-python-headless
 pandas
 Pillow
-numpy
-torch
-torchvision
+numpy==1.26.4
+pyclipper
+python-bidi
+scikit-image
+Shapely
+ninja
